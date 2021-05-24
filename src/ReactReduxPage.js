@@ -1,5 +1,6 @@
 import React, { Component } from "react"
-import { connect } from "react-redux"
+// import { connect } from "react-redux"
+import { connect } from "./simple-react-redux"
 class ReactReduxPage extends Component {
   render() {
     const { num, add, minus } = this.props
