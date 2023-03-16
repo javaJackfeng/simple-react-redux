@@ -1,5 +1,4 @@
 import ReactReduxPage from './ReactReduxPage'
-import './App.css';
 
 function App() {
   return (
